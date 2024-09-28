@@ -1,11 +1,11 @@
 ################## Hero Area #######################
 hero_area:
-  title : "Design Studio"
+  title : "Tutorías Online Personalizadas"
   image : "/assets/images/banner/banner-3.png"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.<br>aliqua enim ad minim veniam quis."
+  content : "Obtén el apoyo académico que necesitas desde la comodidad de tu hogar. Nuestras tutorías personalizadas se adaptan a tu ritmo y objetivos para garantizar tu éxito.<br> ¡Prepárate para alcanzar nuevas metas!"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contáctanos"
     link : "/contact"
 
 ###################### Services #####################
@@ -13,113 +13,93 @@ services:
   enable : true
   bg_image : "/assets/images/bg/feature-bg.png"
   item:
-  - name : "Brand Design"
+  - name : "Diseño de Marca"
     icon : "ti-ruler-pencil"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-    
-  - name : "Seo & Marketing"
+    content : "Aprende a crear y gestionar una identidad de marca única que conecte con tu público objetivo y destaque en el mercado."
+
+  - name : "SEO & Marketing Digital"
     icon : "ti-announcement"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-    
-  - name : "Creative Design"
+    content : "Domina las estrategias de SEO y marketing digital para posicionar tu negocio en internet y atraer clientes potenciales."
+
+  - name : "Diseño Creativo"
     icon : "ti-palette"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content : "Desarrolla habilidades avanzadas en diseño gráfico y creatividad visual con herramientas como Photoshop e Illustrator."
 
 ################## About ###########################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "We are Design & <br>Development Team."
+  subtitle : "Sobre Nosotros"
+  title : "Somos un Equipo de Tutoría <br>y Desarrollo Educativo."
   video_thumb : "/assets/images/about/about.jpg"
   video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.duis aute irure.
+  content : "Nos dedicamos a proporcionar soluciones educativas personalizadas a través de tutorías en línea. Con un equipo de profesionales expertos en diferentes áreas, ayudamos a estudiantes de todos los niveles a mejorar su rendimiento académico y alcanzar sus metas.
   
-
-  Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
-  "
+  Nuestra misión es brindar un aprendizaje flexible, accesible y efectivo para garantizar el éxito de nuestros estudiantes."
   button:
     enable : true
-    label : "Purchase now"
+    label : "Inscríbete Ahora"
     link : "/pricing"
-
 
 ###################### Funfacts #########################
 funfacts:
   enable : true
   bg_image : "/assets/images/bg/cta-bg.png"
   item:
-  - name : "work completed"
+  - name : "Clases Completadas"
     icon : "ti-briefcase"
     value : "370"
     
-  - name : "new projects"
+  - name : "Nuevos Estudiantes"
     icon : "ti-paint-bucket"
     value : "450"
     
-  - name : "Happy customers"
+  - name : "Estudiantes Satisfechos"
     icon : "ti-heart"
     value : "5000"
     
-  - name : "awards win"
+  - name : "Premios Recibidos"
     icon : "ti-cup"
     value : "37"
 
 ###################### Skill #############################
 skill:
   enable : true
-  subtitle : "our skill"
-  title : "We are Design & Development Team."
+  subtitle : "Nuestras Habilidades"
+  title : "Expertos en Educación Online"
   image : "/assets/images/about/skill.jpg"
   item:
-  - name : "Branding"
-    percentage : "85%"
-    
-  - name : "Consulting"
-    percentage : "90%"
-    
-  - name : "Business"
-    percentage : "75%"
-    
-  - name : "Promotion"
+  - name : "Educación y Tutoría"
     percentage : "95%"
 
+  - name : "Consultoría Académica"
+    percentage : "90%"
+    
+  - name : "Desarrollo de Negocios"
+    percentage : "80%"
 
-######################### Testimonail ####################
+  - name : "Promoción Académica"
+    percentage : "85%"
+
+######################### Testimonial ####################
 testimonial:
   enable : true
-  subtitle : "testimonials"
-  title : "Our Clients Say"
+  subtitle : "Testimonios"
+  title : "Lo Que Dicen Nuestros Estudiantes"
   item:
   - name : "Liam Hughes"
-    designation : "Manager"
+    designation : "Estudiante de Diseño"
     image : "/assets/images/team/test-1.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-2.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-3.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-1.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-2.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-3.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    content : "Las tutorías en línea han sido una experiencia increíble. Aprendí mucho sobre diseño de marca y logré crear mi propio proyecto desde cero."
 
+  - name : "Jane Austin"
+    designation : "Estudiante de Marketing"
+    image : "/assets/images/team/test-2.jpg"
+    content : "Gracias a las clases de SEO y marketing digital, mi negocio ha crecido significativamente en los últimos meses."
+
+  - name : "Liolane Hussy"
+    designation : "Estudiante de Desarrollo"
+    image : "/assets/images/team/test-3.jpg"
+    content : "El curso de diseño creativo superó mis expectativas. Ahora puedo manejar varias herramientas de diseño y aplicarlas en mis proyectos."
 
 ###################### Clients ######################
 clients:
@@ -135,24 +115,23 @@ clients:
     - "/assets/images/clients/client-3.png"
     - "/assets/images/clients/client-4.png"
     - "/assets/images/clients/client-5.png"
-    
 
 ###################### Team ######################
 team:
   enable : true
   item:
   - name : "Liam Hughes"
-    designation : "Manager"
+    designation : "Tutor de Diseño"
     image : "/assets/images/team/team-1.jpg"
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
+
+  - name : "Jane Austin"
+    designation : "Especialista en Marketing"
     image : "/assets/images/team/team-2.jpg"
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
+
+  - name : "Liolane Hussy"
+    designation : "Tutora de Desarrollo"
     image : "/assets/images/team/team-3.jpg"
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
+
+  - name : "Carlos Martín"
+    designation : "Consultor Académico"
     image : "/assets/images/team/team-4.jpg"
