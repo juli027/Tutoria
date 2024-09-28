@@ -7,8 +7,8 @@ hero_area:
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
-    label : "contact me"
-    link : "/contact"
+    label : "contactanos"
+    link : "/contacto"
 
 ########################### Service ##############################
 services:
