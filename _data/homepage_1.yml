@@ -3,7 +3,9 @@ hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "Mi nombre es Ana Maria"
   title : "Soy estudiante <br>UI/UX Designer <br>de Tutoti."
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "¡Potencia tu aprendizaje con nuestras tutorías personalizadas en línea!
+
+¿Estás buscando mejorar tus habilidades o alcanzar tus metas académicas? En [Nombre de tu empresa], ofrecemos tutorías 100% personalizadas adaptadas a tus necesidades, desde la comodidad de tu hogar. Ya sea que necesites ayuda con matemáticas, ciencias, idiomas u otras materias, nuestros tutores expertos están aquí para apoyarte en cada paso del camino."
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
