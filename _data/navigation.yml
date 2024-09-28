@@ -1,55 +1,55 @@
 #Please use the main menu items under the "name"
 main:
-  - name: Home
+  - name: Inicio
     url: /
     submenu:
-      - name: Home
+      - name: Inicio Principal
         url: /index.html
-      - name: Home 2
+      - name: Inicio Alternativo
         url: /index-2.html
-      - name: Home 3
+      - name: Inicio Creativo
         url: /index-3.html
-      - name: Home 4
+      - name: Inicio Educativo
         url: /index-4.html
-  - name: About
+  - name: Nosotros
     url: "#"
     submenu:
-      - name: About
+      - name: Sobre Nosotros
         url: /about.html
-      - name: About Me
-        url: /about-me.html
+      - name: Nuestro Equipo
+        url: /about-team.html
   - name: Blog
     url: /blog-1.html
-  - name: Pages
+  - name: Páginas
     url: /
     submenu:
-      - name: Services
+      - name: Servicios
         url: /services.html
-      - name: Portfolio One
-        url: /portfolio-1.html
-      - name: Portfolio Two
-        url: /portfolio-2.html
-      - name: 404
+      - name: Testimonios
+        url: /testimonials.html
+      - name: Preguntas Frecuentes
+        url: /faq.html
+      - name: Error 404
         url: /404
-  - name: Contact
+  - name: Contacto
     url: /contact.html
 
 ########## footer menu ###############
 footer:
-  - name: Services
+  - name: Servicios
     url: /services.html
-  - name: Portfolio One
-    url: /portfolio-1.html
-  - name: Portfolio Two
-    url: /portfolio-2.html
-  - name: Single Portfolio
+  - name: Testimonios
+    url: /testimonials.html
+  - name: Preguntas Frecuentes
+    url: /faq.html
+  - name: Portafolio de Proyectos
     url: /portfolio-single.html
-  - name: Contact
+  - name: Contacto
     url: /contact.html
 
 ############## Bottom menu ###############
 bottom:
-  - name: Terms of Service
+  - name: Términos de Servicio
     link: "#"
-  - name: Privacy Policy
+  - name: Política de Privacidad
     link: "#"
